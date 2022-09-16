@@ -1,6 +1,8 @@
 # AI4Finance-Education
 
-##Title: FinRL for Live Trading
+[STAT GR5398: MA Mentored Research](https://stat.columbia.edu/ma-programs/stat-gr5398-ma-mentored-research/)
+
+## Title: FinRL for Live Trading
 GitHub: https://github.com/AI4Finance-Foundation/FinRL
 Purpose: Based on the open-source financial reinforcement learning framework-FinRL, develop an AI stock-selection and trading strategy based on Supervised Machine Learning (Supervised ML) and Deep Reinforcement Learning (DRL) algorithms and deploy it to an online trading platform for paper trading.
 
