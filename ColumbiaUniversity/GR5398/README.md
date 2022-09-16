@@ -9,7 +9,7 @@ Purpose: Based on the open-source financial reinforcement learning framework-Fin
 
 2. Perform feature engineering: based on OHLCV data to make company technical analysis indicators such as MACD, RSI; based on company fundamental data to make fundamental indicators such as EPS, ROI, ROE, P/E, P/S; and convert it into machine learning data format
 
-Your Delivery: code and a CSV file with quarterly data of S&P 500 stocks
+*Your Delivery*: code and a CSV file with quarterly data of S&P 500 stocks
 image.png
 
 ### Phase II: Stock Selection and Portfolio Allocation with Backtesting Results
@@ -21,12 +21,12 @@ image.png
 • Reference paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996
 • GitHub Code: https://github.com/AI4Finance-Foundation/FinRL-Meta/blob/master/tutorials/1-Introduction/FinRL_PortfolioAllocation_NeurIPS_2020.ipynb
 
-Your Delivery: code and a backtesting chart with return results of 1) Our Trading Strategy (ML Selection+FinRL Portfolio Allocation); 2) Minimum-Variance Portfolio Allocation Strategy; 3) Equally Weighted Portfolio Allocation Strategy of Selected Stocks; 4) S&P 500 Index 
+*Your Delivery*: code and a backtesting chart with return results of 1) Our Trading Strategy (ML Selection+FinRL Portfolio Allocation); 2) Minimum-Variance Portfolio Allocation Strategy; 3) Equally Weighted Portfolio Allocation Strategy of Selected Stocks; 4) S&P 500 Index 
 image.png
 
 ### Phase III: Deploy the DRL trading strategy to an online trading platform
 1. Deployment: Deploy strategies to online trading platforms such as Alpaca for paper trading
 • GitHub Code: https://github.com/AI4Finance-Foundation/FinRL-Meta/blob/master/tutorials/3-Practical/FinRL_PaperTrading_Demo.ipynb
 
-Your Delivery: code and a screenshot of your paper trading portfolio, ideally 5% greater than the S&P 500 Index return
+*Your Delivery*: code and a screenshot of your paper trading portfolio, ideally 5% greater than the S&P 500 Index return
 image.png
