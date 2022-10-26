@@ -6,4 +6,4 @@
 
 
 
-**AI4Finance-Education** is our education channel to help students and professionals to understand how to use AI in the financial industry. 
+**AI4Finance-Education** is our education channel to help students and professionals understand how to use AI in the financial industry. 
