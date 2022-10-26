@@ -35,7 +35,7 @@ Machine Learning Interview Questions
 32. What is regularization?
 33. What’s the difference between Lasso and Ridge? What’s the cost function?
 34. Why does Lasso can make coefficients to 0 but Ridge can’t?
-35. What is lambda λ?
+35. What is lambda λ in Lasso?
 36. What are the Advantages/Disadvantages of Lasso and Ridge?
 37. What’s Logistic Regression? How to implement Logistic Regression?
 38. What’s the cost function of logistic regression?
