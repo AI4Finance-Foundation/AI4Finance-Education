@@ -15,3 +15,7 @@ Recurrent Based Models Interview Questions
 13. How to choose the Number of Hidden Layers?
 14. How to choose the Number of Neurons in the Hidden Layers?
 15. What is Dropout?
+
+<div align="center">
+<img width="1337" alt="WechatIMG3528" src="https://user-images.githubusercontent.com/31713746/198068277-91547504-4fd3-411c-ad9e-e0b96ea96c82.png">
+</div>
