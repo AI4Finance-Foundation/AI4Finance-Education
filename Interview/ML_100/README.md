@@ -96,5 +96,5 @@ Machine Learning Interview Questions
 
 
 <div align="center">
-<img width="688" alt="WechatIMG3523" src="https://user-images.githubusercontent.com/31713746/198067728-bdb3dd2c-ef32-42e9-aff9-e3dbefdd0407.png">
+<img width="1337" alt="WechatIMG3528" src="https://user-images.githubusercontent.com/31713746/198068277-91547504-4fd3-411c-ad9e-e0b96ea96c82.png">
 </div>
