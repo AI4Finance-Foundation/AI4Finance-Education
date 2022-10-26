@@ -14,3 +14,8 @@ Attention Based Models Interview Questions
 12. What’s wrong with BERT? What’s its limitations?
 13. What is XLNet? Why Choose XLNet over BERT?
 14. What’s the difference between BERT and XLNet [CLS] and [SEP] pattern?
+
+
+<div align="center">
+<img width="1337" alt="WechatIMG3528" src="https://user-images.githubusercontent.com/31713746/198068277-91547504-4fd3-411c-ad9e-e0b96ea96c82.png">
+</div>
