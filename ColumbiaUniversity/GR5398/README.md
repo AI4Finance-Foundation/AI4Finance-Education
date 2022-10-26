@@ -1,6 +1,9 @@
 # AI4Finance-Education
 
 [STAT GR5398: MA Mentored Research](https://stat.columbia.edu/ma-programs/stat-gr5398-ma-mentored-research/)
+<div align="center">
+<img width="1214" alt="image" src="https://user-images.githubusercontent.com/31713746/198068902-3accc660-bc63-4cee-8b63-9d15ff4745eb.png">
+</div>
 
 ## Title: FinRL for Live Trading
 GitHub: https://github.com/AI4Finance-Foundation/FinRL
@@ -32,3 +35,7 @@ image.png
 
 **Your Delivery**: code and a screenshot of your paper trading portfolio, ideally 5% greater than the S&P 500 Index return
 image.png
+
+<div align="center">
+<img width="1337" alt="WechatIMG3528" src="https://user-images.githubusercontent.com/31713746/198068277-91547504-4fd3-411c-ad9e-e0b96ea96c82.png">
+</div>
