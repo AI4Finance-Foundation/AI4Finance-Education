@@ -92,3 +92,9 @@ Machine Learning Interview Questions
 89. What’s the cost function of Neural Network?
 90. What are the activation functions of Neural Network?
 91. What are the Advantages/Disadvantages of Neural Network?
+
+
+
+<div align="center">
+<img width="688" alt="WechatIMG3523" src="https://user-images.githubusercontent.com/31713746/198067728-bdb3dd2c-ef32-42e9-aff9-e3dbefdd0407.png">
+</div>
